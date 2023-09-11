@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+	int a, b, c ;
+	cout<<"Program Penjumlahan	/n";
+	cout<<"Masukkan Angka pertama: ";
+	cin>>a;
+	cout<<"masukkan Angka kedua: ";
+	cin>>b;
+	cout<<"Hasil Penjumlahan adalah"<<a+b<<endl;
+	cout<<"Hasil pengurangan adalah"<<a-b<<endl;
+	cout<<"Hasil Perkalian adalah"<<a*b<<endl;
+	cout<<"Hasil Pembagian adalah"<<a/b<<endl;
+	cout<<"Hasil Sisa Bagi adalah"<<a%b<<endl;
+	cout<<"Hasil  adalah: "<<c<<endl;
+	return 0;
+}
